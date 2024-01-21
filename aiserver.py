@@ -334,7 +334,7 @@ model_menu = {
         MenuFolder("Return to Main Menu", "mainmenu"),
         ],
     'chatlist': [
-        MenuModel("Pygmalion-2 13B", "PygmalionAI/pygmalion-2-13b", "12GB*"),
+        MenuModel("llama2_70b_chat_uncensored-GPTQ", "TheBloke/llama2_70b_chat_uncensored-GPTQ", "35GB*"),
         MenuModel("Mythalion 13B", "PygmalionAI/mythalion-13b", "12GB*"),
         MenuModel("Mythomax 13B (Instruct)", "Gryphe/MythoMax-L2-13b", "12GB*"),
         MenuModel("Huginn 13B (Instruct)", "The-Face-Of-Goonery/Huginn-13b-FP16", "12GB*"),
